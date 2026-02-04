@@ -1,6 +1,6 @@
 # routeway-py
 
-A Python SDK for the [Routeway API](https://routeway.ai). It's OpenAI-compatible, so if you've used the OpenAI Python client, this will feel familiar.
+A unofficial Python SDK for the [Routeway API](https://routeway.ai). It's OpenAI-compatible, so if you've used the OpenAI Python client, this will feel familiar.
 
 ## What it does
 
