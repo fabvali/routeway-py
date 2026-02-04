@@ -192,7 +192,6 @@ except RoutewayError as e:
 ## License
 
 MIT © [fabvali](https://github.com/fabvali)
-*this npm package is a renewal and remake of the old clashai one made by verleihernix*
 
 ## Links
 
